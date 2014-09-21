@@ -21,3 +21,6 @@ HEADERS  += mainwindow.h \
     OutGauge.h
 
 FORMS    += mainwindow.ui
+
+OTHER_FILES += \
+    .gitignore
